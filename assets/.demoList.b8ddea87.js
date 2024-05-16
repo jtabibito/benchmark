@@ -1,1 +1,0 @@
-const a=[{src:"animation-benchmark",label:"Animation"},{src:"collider-benchmark",label:"Collider"},{src:"material",label:"Material"},{src:"mesh",label:"Mesh"},{src:"pbr-material",label:"PBRMaterial"},{src:"unlit-material",label:"UnlitMaterial"}],l=[{src:"point-light",label:"Point Light"}],e={Benchmark:a,Light:l};export{a as Benchmark,l as Light,e as default};
