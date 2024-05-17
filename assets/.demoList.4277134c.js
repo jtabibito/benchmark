@@ -1,0 +1,1 @@
+const e=[{src:"animation-benchmark",label:"Animation"},{src:"collider-benchmark",label:"Collider"},{src:"mesh",label:"Mesh"},{src:"pbr-material",label:"PBRMaterial"},{src:"texture",label:"Texture"},{src:"unlit-material",label:"UnlitMaterial"}],l=[{src:"point-light",label:"Point Light"}],a={Benchmark:e,Light:l};export{e as Benchmark,l as Light,a as default};
